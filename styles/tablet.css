@@ -1,0 +1,82 @@
+@media (min-width: 769px) {
+  .container-nav {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #4e4e4e;
+  }
+
+  .nav-items {
+    display: flex;
+    gap: 23px;
+    color: #f1f1f1;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .disabled {
+    display: flex;
+    cursor: not-allowed;
+  }
+
+  .links {
+    display: flex;
+    color: white;
+    text-decoration: none;
+  }
+
+  .header-main {
+    width: 577px;
+  }
+
+  .reversed .expert-info {
+    text-align: right;
+  }
+
+  .company-header {
+    font-size: 36px;
+    display: flex;
+    justify-content: left;
+  }
+
+  .experts-header {
+    display: flex;
+    justify-content: left;
+  }
+
+  .expert {
+    display: flex;
+    text-align: left;
+    padding: 0;
+  }
+
+  .experts-section {
+    padding-bottom: 50px;
+  }
+
+  .grid-boxes {
+    grid-template-columns: auto auto;
+  }
+
+  .box {
+    width: 200px;
+    height: 200px;
+  }
+
+  .footer-all {
+    height: 70px;
+  }
+
+  .container-footer {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #4e4e4e;
+  }
+}
