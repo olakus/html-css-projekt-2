@@ -1,16 +1,5 @@
 @media (min-width: 769px) {
-  .container-nav {
-    width: 90%;
-    height: 100%;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #4e4e4e;
-  }
-
   .nav-items {
-    display: flex;
     gap: 23px;
     color: #f1f1f1;
     text-decoration: none;
@@ -37,13 +26,11 @@
   }
 
   .company-header {
-    font-size: 36px;
-    display: flex;
     justify-content: left;
+    font-size: 36px;
   }
 
   .experts-header {
-    display: flex;
     justify-content: left;
   }
 
@@ -71,12 +58,8 @@
   }
 
   .container-footer {
-    width: 90%;
-    height: 100%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    background-color: #4e4e4e;
   }
 }

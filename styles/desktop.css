@@ -23,12 +23,21 @@
     width: 960px;
   }
 
+  .button-style:hover {
+    color: black;
+    background-color: white;
+  }
+
   .container-boxes {
     width: 960px;
   }
 
   .container-boxes-grid {
     width: 960px;
+  }
+
+  .box:hover {
+    transform: scale(1.05);
   }
 
   .container-footer {
