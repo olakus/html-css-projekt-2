@@ -1,4 +1,9 @@
 @media (min-width: 769px) {
+  nav {
+    position: sticky;
+    top: 0;
+  }
+
   .nav-items {
     gap: 23px;
     color: #f1f1f1;
@@ -37,7 +42,6 @@
   .expert {
     display: flex;
     text-align: left;
-    padding: 0;
   }
 
   .experts-section {
@@ -51,6 +55,11 @@
   .box {
     width: 200px;
     height: 200px;
+  }
+
+  .contact-header {
+    justify-content: left;
+    font-size: 36px;
   }
 
   .footer-all {
