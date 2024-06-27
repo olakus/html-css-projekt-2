@@ -81,7 +81,7 @@ nav {
 }
 
 .links {
-  display: none;
+  text-decoration: none;
 }
 
 .container-tiny {
@@ -100,6 +100,7 @@ nav {
 
 .paragraph-about {
   text-align: center;
+  line-height: 24px;
   padding: 0 0 30px 0;
 }
 
@@ -145,13 +146,14 @@ nav {
   padding: 50px 0 50px 0;
   font-size: 36px;
   font-weight: 700;
+
   color: #152d41;
   line-height: 42px;
 }
 
 .description {
   font-weight: 400;
-  line-height: 21px;
+  line-height: 24px;
 }
 
 .container .branding .image {
@@ -293,11 +295,15 @@ nav {
 .contact-header {
   display: flex;
   justify-content: center;
-  padding: 50px 0 50px 0;
+  padding: 20px 0 20px 0;
   font-size: 36px;
   font-weight: 700;
-  color: #000000;
+  color: #152d41;
   line-height: 42px;
+}
+
+.paragraph-contact {
+  padding: 20px 0 8px 0;
 }
 
 .footer-all {
