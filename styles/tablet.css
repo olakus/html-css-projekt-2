@@ -35,6 +35,11 @@
     font-size: 36px;
   }
 
+  .paragraph-about {
+    text-align: justify;
+    padding: 0 0 30px 0;
+  }
+
   .experts-header {
     justify-content: left;
   }
