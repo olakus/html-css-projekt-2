@@ -32,12 +32,12 @@
 
   .company-header {
     justify-content: left;
-    font-size: 36px;
+    /* font-size: 36px; */
   }
 
   .paragraph-about {
     text-align: justify;
-    padding: 0 0 30px 0;
+    padding: 0 0 50px 0;
   }
 
   .experts-header {
@@ -64,7 +64,7 @@
 
   .contact-header {
     justify-content: left;
-    font-size: 36px;
+    /* font-size: 36px; */
   }
 
   .footer-all {
