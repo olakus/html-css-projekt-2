@@ -11,15 +11,8 @@
     cursor: pointer;
   }
 
-  .disabled {
+  .links.hidden-on-mobile {
     display: flex;
-    cursor: not-allowed;
-  }
-
-  .links {
-    display: flex;
-    color: white;
-    text-decoration: none;
   }
 
   .header-main {

@@ -76,11 +76,13 @@ nav {
   color: white;
 }
 
-.disabled {
+.links.hidden-on-mobile {
   display: none;
 }
 
 .links {
+  display: flex;
+  color: white;
   text-decoration: none;
 }
 
