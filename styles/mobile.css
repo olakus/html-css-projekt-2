@@ -104,7 +104,7 @@ nav {
 .paragraph-about {
   text-align: center;
   line-height: 24px;
-  padding: 0 0 30px 0;
+  padding: 0 0 50px 0;
 }
 
 .experts-section {
@@ -116,8 +116,7 @@ nav {
   text-align: justify;
   justify-content: center;
   align-items: center;
-  gap: 50px;
-  padding: 20px 0 20px 0;
+  padding: 30px 0;
 }
 
 .expert:nth-of-type(even) {
@@ -139,7 +138,7 @@ nav {
 
 .full-name {
   font-weight: 700;
-  padding: 30px 0 30px 0;
+  padding: 20px 0;
   line-height: 21px;
 }
 
